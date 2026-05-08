@@ -90,9 +90,9 @@ This project was developed as part of a thesis submission. The research goal is 
 
 ## 📬 Contact
 
-**Author:** Your Name  
-**Institution:** Your University  
-**Email:** your.email@example.com
+**Author:** VANSH 
+**Institution:** SVSD BHATOLI  
+**Email:** sumitsohal963@gmail.com
 
 ---
 
